@@ -51,7 +51,8 @@
     "@ckeditor/ckeditor5-remove-format": "^32.0.0",
     "@ckeditor/ckeditor5-special-characters": "^32.0.0",
     "@ckeditor/ckeditor5-table": "^32.0.0",
-    "@ckeditor/ckeditor5-typing": "^32.0.0"
+    "@ckeditor/ckeditor5-typing": "^32.0.0",
+    "@ckeditor/ckeditor5-upload": "^32.0.0"
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-core": "^32.0.0",
